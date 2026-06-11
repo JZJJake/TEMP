@@ -1,0 +1,789 @@
+{
+  "generated": "2026-06-11",
+  "note": "本环境下天眼查/企查查/gsxt/cngy.gov.cn等多数页面WebFetch返回HTTP 403，正文未逐字抓取；fetch_status=search_summary_only 表示该URL内容来自WebSearch返回的标题/摘要片段，定稿前需回原始链接二次核验。",
+  "total": 155,
+  "by_dimension": {
+    "维度一 政策面": 22,
+    "维度二 技术面": 38,
+    "维度三 市场面": 30,
+    "维度四 广元产业基础面": 29,
+    "维度五 中科芯泰核验": 36
+  },
+  "urls": [
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://finance.sina.com.cn/wm/2026-03-15/doc-inhrcatk9953862.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.huxiu.com/article/4856910.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://news.pedaily.cn/202510/556089.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.chyxx.com/industry/1211056.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://bg.qianzhan.com/trends/detail/506/250905-2fd94b72.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.eet-china.com/mp/a350001.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://jhj.sc.gov.cn/scjhj/zsktz/2025/5/20/49ba67933d244d1d8a2bdec229c3deb7.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.scjc.gov.cn/scjc/rdzx/2025/2/6/06569129e07242e081f6067b8480315a.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.sc.gov.cn/10462/zfwjts/2024/11/28/b73282e4a1ae4227aeff4a5a7742330f.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.sc.gov.cn/10462/10464/10797/2024/6/25/049f05e23cb941a68b8e16e0e8077bd0.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://drc.cngy.gov.cn/mshow/f58b5a1fc102433580990dbac8e9ec9e.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://tyj.cngy.gov.cn/mshow/ba76be34-57e4-4a0c-8973-7e1e1befd72c.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://jxj.cngy.gov.cn/mshow/20250108143532963.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.lzq.gov.cn/mshow/20241030105210598.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.scjjrb.com/2025/03/27/99430370.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://kjt.sc.gov.cn/kjt/gy1/2025/3/18/3c0420a2efac46f69a6da538d307fc00.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "http://jkq.cngy.gov.cn/gongkai/show/f9d9f9e004ef427a933de12f8ba2ca30.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.news.cn/politics/20250826/21f5785636b14373af2e5d85ef383344/c.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202508/t20250827_1126207.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202401/content_6929021.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度一 政策面",
+      "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/yj/art/2024/art_ad15b0f08a714fd8888c0e31468b8c54.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://link.springer.com/article/10.1007/s44275-024-00022-z",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S000862232301000X",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37964293/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://pubs.acs.org/doi/10.1021/acsaelm.5c00119",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/26941112.2021.1980356",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/26941112.2025.2475875",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11278176/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://arxiv.org/pdf/2511.11791",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.powerelectronicsnews.com/industry-perspective-why-diamond-could-define-the-2030s-power-electronics-era/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/elt2.70",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://link.springer.com/article/10.1007/s10854-024-12267-3",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/26941112.2026.2669069",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.df.com/diamond-ai-chips",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925963525005618",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "http://www.brl.ntt.co.jp/E/activities/file/report11/report05.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.nature.com/articles/s41598-018-21579-4",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://link.springer.com/content/pdf/10.1007/s40843-024-3233-5.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925963526001688",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925963524008173",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://zri.hit.edu.cn/2024/1030/c20119a369492/page.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30700226",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.compoundsemiconductorchina.net/features.asp?id=6693",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://qxb-img-osscache.qixin.com/standards/f16e3ca2d4566d580f9cc11912244316.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.larcomse.com/news/shownews.php?id=39",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.tomshardware.com/pc-components/cooling/the-data-center-cooling-state-of-play-2025-liquid-cooling-is-on-the-rise-thermal-density-demands-skyrocket-in-ai-data-centers-and-tsmc-leads-with-direct-to-silicon-solutions",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://news.futunn.com/en/post/74359638/diamond-enables-breakthrough-in-chip-thermal-management-further-expanding-the",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.diamondsemicon.com/blog/why-diamond-is-emerging-as-the-ultimate-heat-spreader-for-ai-and-gpu-chips",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.prnewswire.com/news-releases/element-six-unveils-groundbreaking-copper-diamond-composite-to-power-advanced-semiconductor-devices-302357058.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.electronicsweekly.com/news/business/element6-launches-cu-diamond-2025-01/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://techcrunch.com/sponsor/element-six/breaking-the-thermal-barrier-element-six-and-orbray-achieve-milestone-in-wafer-scale-single-crystal-synthetic-diamond-2/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://semiconductorinsight.com/blog/electrically-conductive-cvd-diamond-heat-spreaders-gain-momentum-as-market-surges-toward-758-million-by-2032/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.darpa.mil/research/programs/thermal-management-technologies/near-junction-thermal-transport",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.darpa.mil/news/2013/gallium-nitride-diamond-thermal-management",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.qorvo.com/innovation/customer-stories/qorvo-gan-on-diamond-achieves-breakthrough-results-for-darpa",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://asmedigitalcollection.asme.org/electronicpackaging/article/147/3/030802/1218735/Three-Decades-of-Thermal-Management-Research-at",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.cas.cn/zt/kjzt/kjzlzqzl/kjzlzq/202406/t20240628_5023484.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.eet-china.com/mp/a405671.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度二 技术面",
+      "url": "https://www.networkworld.com/article/4008275/next-gen-ai-chips-will-draw-15000w-each-redefining-power-cooling-and-data-center-design.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.24chemicalresearch.com/reports/258330/global-diamondbased-semiconductors-market-2024-24",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://virtuemarketresearch.com/report/diamond-semiconductor-substrates-market",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://dataintelo.com/report/diamond-materials-for-semiconductor-market",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.qyresearch.com/reports/3432037/diamond-based-semiconductors",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.qyresearch.com.cn/reports/4461186/diamond-semiconductor-substrates",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.gelonghui.com/p/2784969",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.stcn.com/article/detail/1463427.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://finance.sina.com.cn/stock/roll/2024-12-22/doc-ineaicsr1128280.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.openpr.com/news/4537861/diamond-heat-spreaders-market-to-reach-usd-512-million-by-2033",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.rootsanalysis.com/diamond-heat-spreaders-market",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.openpr.com/news/4538592/data-center-thermal-management-materials-market-growth-driven",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.morningstar.com/news/accesswire/1163831msn/ai-datacenter-liquid-cooling-market-to-reach-usd-178-billion-by-2036-as-hyperscale-ai-infrastructure-drives-thermal-management-transformation",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.gminsights.com/industry-analysis/data-center-liquid-cooling-market",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.idtechex.com/en/research-report/thermal-management-for-data-centers/1128",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://news.qq.com/rain/a/20251102A0403100",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.trendforce.cn/presscenter/news/20250821-12681.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.esmchina.com/marketnews/54817.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.1234567.com.cn/index.html?page=zxzw&code=202508213490045180",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://caijing.chinadaily.com.cn/a/202409/27/WS66f64d56a310b59111d9b9d3.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.163.com/news/article/KAPFV1D400019UD6.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://pmarketresearch.com/worldwide-gan-on-diamond-hemts-market-research-2024-by-type-application-participants-and-countries-forecast-to-2030/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.24marketreports.com/semiconductor-and-electronics/global-gan-on-diamond-semiconductor-substrates-forecast-market",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.qyresearch.com.cn/reports/3712828/cvd-diamond-heat-sinks-for-semiconductor",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.chyxx.com/pdf/07/37/1200737.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.gelonghui.com/p/820399",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://xincailiao.ofweek.com/news/2026-05/ART-180423-8420-30688352.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://tech.china.com/articles/20260304/202603041818647.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.gelonghui.com/p/1852055",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://www.chyxx.com/research/1216562.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度三 市场面",
+      "url": "https://m.gelonghui.com/p/1990345",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://stats.cngy.gov.cn/gongkai/show/20250122151348759.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://nyncj.cngy.gov.cn/mshow/5a15a079a6584667903fbbd63b906a3c.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://tjgb.hongheiku.com/djs/57491.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.sohu.com/a/895934124_121119015",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.sc.gov.cn/10462/10464/10797/2025/2/1/b677ea0b450e4424bd6de4a7f274d0dc.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://zh.wikipedia.org/zh-hans/四川各市州地区生产总值列表",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/govop/show/20241127163704-29350-00-000.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/artic/show/20241127163704673.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/artic/show/20241128165303674.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/govop/show/20241128165303-25530-00-000.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://sichuan.scol.com.cn/tfrm/202411/82849930.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.sc.gov.cn/10462/10464/10465/10595/2024/11/30/beedd1f3fe744280b9798ad4b07cc1e9.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://gyct.gov.cn/new/detail/20230506110343114.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://gys.sczwfw.gov.cn/art/2025/5/16/art_16364_286616.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/govop/show/20210630155139-21880-00-000.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.scjjrb.com/2024/10/26/99416274.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.cngy.gov.cn/zzzq/ashow/20250120181836140.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://finance.sina.com.cn/jjxw/2025-01-23/doc-inefwwii7061612.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://jhj.sc.gov.cn/scjhj/jhyw/2024/5/11/f8b6abe4f9234b978051834337e427a3.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://jkq.cngy.gov.cn/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "http://sc.people.com.cn/n2/2025/0103/c407319-41097464.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.dxsbb.com/news/3633.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.dxsbb.com/news/8585.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.gaokao.cn/school/3421",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.gx211.cn/gxmd/gx-sc.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://sichuan.scol.com.cn/ggxw/202411/82650930.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://sichuan.scol.com.cn/ggxw/202411/82842288.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://www.siscmag.com/news/show-7691.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度四 广元产业基础面",
+      "url": "https://sichuan.scol.com.cn/ggxw/202411/82640739.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.cods.org.cn/gscx/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.cods.org.cn/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://cds.sczwfw.gov.cn/module/download/downfile.jsp?classid=0&filename=56574552f9064efdb59d3251b70075bf.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://m.qcc.com/firm/g3abbdf3fc1c521fb78a0ce7ed10cb9e.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.tianyancha.com/company/3444863781",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.qixin.com/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.gsxt.gov.cn/subPubSys-tel-510000.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.gsxt.gov.cn/index.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.tianyancha.com/search?key=%E4%B8%AD%E7%A7%91%E8%8A%AF%E6%B3%B0%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%A7%91%E6%8A%80",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.qcc.com/web/search?key=%E4%B8%AD%E7%A7%91%E8%8A%AF%E6%B3%B0%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%A7%91%E6%8A%80",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.eet-china.com/mp/a416954.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.semi.ac.cn/xwdt/zhxw/202407/t20240710_7215634.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://ee.ofweek.com/2025-04/ART-8470-2800-30661716.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://m.thepaper.cn/newsDetail_forward_30700226",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://cj.sina.com.cn/articles/view/7713813572/1cbc77444001015swq",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://jkq.cngy.gov.cn/gongkai/show/ded1aa3fc5a24ae79e481ccd610af6e3.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://jxj.cngy.gov.cn/New/show/060130c80bea4ce1ad72a291afb345c9.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://m.c114.com.cn/w13-1278861.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://patentimages.storage.googleapis.com/41/2f/9d/ce8bbf08a5f583/CN112074078A.pdf",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.cnipa.gov.cn/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.cas.cn/syky/202203/t20220315_4828199.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://news.xjtu.edu.cn/info/1004/216405.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://news.xjtu.edu.cn/info/1219/216993.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://news.xjtu.edu.cn/info/1424/205582.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://news.xjtu.edu.cn/info/1004/206638.htm",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.eet-china.com/mp/a391487.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.x-mol.com/university/faculty/214471",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://caifuhao.eastmoney.com/news/20260502212515913612350",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://stock.stockstar.com/notice/SN2026010800033299.shtml",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.csmh-semi.com/a/9-544.html",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://en.csmh-semi.com/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://semiengineering.com/knowledge_centers/materials/diamond-semiconductors/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://eu.36kr.com/en/p/3517368794094725",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://tech.eu/2025/11/28/europes-diamond-moment-a-new-semiconductor-ecosystem-in-the-making/",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://aiqicha.baidu.com/newcompsearch",
+      "fetch_status": "search_summary_only"
+    },
+    {
+      "dimension": "维度五 中科芯泰核验",
+      "url": "https://www.omedasemi.com/news/419.html",
+      "fetch_status": "search_summary_only"
+    }
+  ]
+}
